@@ -1,0 +1,213 @@
+,genre_category,genre_category_id,genre_id,genre_name
+0,Basic Genres,1,2,Adventure
+1,Perspective,2,7,1st-person
+2,Narrative Theme/Topic,8,55,Detective / Mystery
+3,Setting,10,8,Sci-Fi / Futuristic
+4,Art Style,13,217,Live action
+5,Other Attributes,6,82,Licensed
+6,Basic Genres,1,3,Simulation
+7,Basic Genres,1,1,Action
+9,Gameplay,4,159,Vehicular Combat Simulator
+11,Vehicular Themes,11,151,Space Flight
+12,Basic Genres,1,4,Strategy/Tactics
+13,Perspective,2,129,Bird's-eye view
+14,Gameplay,4,142,4X
+15,Gameplay,4,40,Managerial / Business Simulation
+16,Interface/Control,7,173,Multiple Units/Characters Control
+17,Interface/Control,7,167,Point and Select
+18,Pacing,9,106,Turn-based
+19,Visual Presentation,12,134,Free-roaming camera
+20,Visual Presentation,12,25,Isometric
+21,Basic Genres,1,6,Racing / Driving
+22,Perspective,2,128,Behind view
+23,Gameplay,4,9,Arcade
+24,Vehicular Themes,11,191,Street Racing
+25,Vehicular Themes,11,188,Automobile
+27,Perspective,2,17,Side view
+28,Gameplay,4,21,Platform
+29,Visual Presentation,12,131,2D scrolling
+34,Basic Genres,1,5,Sports
+36,Sports Themes,3,52,Skateboarding
+37,Sports Themes,3,38,Olympiad / Mixed Sports
+39,Gameplay,4,22,Shooter
+43,Vehicular Themes,11,72,Mecha / Giant Robot
+44,Art Style,13,57,Anime / Manga
+47,Perspective,2,13,Top-down
+49,Pacing,9,15,Real-Time
+55,Gameplay,4,30,Puzzle elements
+57,Setting,10,206,Middle East
+62,Visual Presentation,12,133,Fixed / Flip-screen
+67,Setting,10,66,Cyberpunk / Dark Sci-Fi
+75,Basic Genres,1,50,Role-Playing (RPG)
+79,Setting,10,78,Fantasy
+86,Interface/Control,7,168,Direct Control
+87,Narrative Theme/Topic,8,124,War
+102,Sports Themes,3,34,Hockey
+118,Perspective,2,126,3rd-person (Other)
+123,Gameplay,4,48,Fighting
+129,Gameplay,4,158,Vehicle Simulator
+130,Vehicular Themes,11,192,Track Racing
+131,Vehicular Themes,11,20,Motorcycle
+170,Setting,10,210,Sea Pirates/Caribbean
+171,Vehicular Themes,11,41,Naval / Watercraft
+174,Gameplay,4,140,Mini-Games
+185,Setting,10,205,Medieval
+186,Setting,10,202,Europe
+187,Setting,10,14,Historical Events
+190,Gameplay,4,146,Graphic Adventure
+206,Other Attributes,6,223,Regional Differences
+209,Gameplay,4,117,Beat 'em up / Brawler
+247,Setting,10,203,Classical antiquity
+249,Setting,10,201,Egypt (Ancient)
+250,Setting,10,196,Africa
+263,Setting,10,200,Contemporary
+264,Vehicular Themes,11,19,Flight / Aviation
+270,Vehicular Themes,11,108,Train
+275,Gameplay,4,166,Action RPG
+280,Basic Genres,1,118,Puzzle
+306,Gameplay,4,148,Rail Shooter
+309,Art Style,13,67,Video backdrop
+330,Vehicular Themes,11,189,Hovercraft
+340,Gameplay,4,53,Pinball
+360,Gameplay,4,155,Time Management
+365,Narrative Theme/Topic,8,83,Horror
+375,Setting,10,215,World War II
+385,Narrative Theme/Topic,8,121,Crime
+407,Gameplay,4,102,Survival Horror
+410,Setting,10,216,Interwar
+411,Visual Presentation,12,132,Cinematic camera
+415,Sports Themes,3,49,Football (European) / Soccer
+435,Gameplay,4,68,Hack and Slash
+443,Gameplay,4,143,Artillery
+447,Narrative Theme/Topic,8,120,Comedy
+497,Vehicular Themes,11,80,Tank
+503,Narrative Theme/Topic,8,87,Adult
+504,Setting,10,207,North America
+522,Setting,10,197,Asia
+589,Sports Themes,3,73,Cricket
+593,Sports Themes,3,35,Golf
+601,Setting,10,213,Western
+603,Art Style,13,60,Full Motion Video (FMV)
+653,Sports Themes,3,95,Snowboarding / Skiing
+655,Gameplay,4,96,Tricks / Stunts
+659,Gameplay,4,24,Metroidvania
+665,Gameplay,4,145,Falling Block Puzzle
+671,Narrative Theme/Topic,8,122,Romance
+700,Gameplay,4,165,RPG elements
+721,Vehicular Themes,11,56,Helicopter
+756,Basic Genres,1,62,DLC / Add-on
+757,DLC/Add-on,14,183,Story / Mission
+758,DLC/Add-on,14,180,Other
+787,Gameplay,4,39,Martial Arts
+920,Gameplay,4,137,City Building / Construction Simulation
+956,Narrative Theme/Topic,8,141,Healthcare
+990,Sports Themes,3,33,Basketball
+1034,Basic Genres,1,12,Educational
+1039,Educational Categories,5,46,Pre-school / Toddler
+1040,Educational Categories,5,44,Reading / Writing
+1041,Gameplay,4,162,Word Construction
+1042,Gameplay,4,154,Tile Matching Puzzle
+1043,Gameplay,4,107,Mental training
+1045,Gameplay,4,27,Cards / Tiles
+1046,Gameplay,4,26,Board Game
+1095,Basic Genres,1,76,Compilation
+1152,Sports Themes,3,32,Baseball
+1205,Gameplay,4,139,Life / Social Simulation
+1274,Gameplay,4,153,Tactical Shooter
+1331,Gameplay,4,161,Wargame
+1397,Gameplay,4,64,Paddle / Pong
+1464,Setting,10,211,South America
+1495,Sports Themes,3,51,Wrestling
+1550,Sports Themes,3,37,Tennis
+1657,Vehicular Themes,11,58,Off-roading
+1723,Sports Themes,3,88,Bowling
+1756,Gameplay,4,29,Game Show / Trivia / Quiz
+1779,Pacing,9,69,Meditative / Zen
+1835,Setting,10,65,Post-Apocalyptic
+1877,Gameplay,4,218,Timed Input
+1946,Gameplay,4,11,Chess
+2073,Sports Themes,3,77,Volleyball
+2075,Setting,10,208,Oceania
+2092,Sports Themes,3,63,Sailing / Boating
+2098,Gameplay,4,99,Stealth
+2123,Educational Categories,5,81,Ecology / Nature
+2134,Sports Themes,3,109,Surfing
+2138,Vehicular Themes,11,104,Bike / Bicycling
+2241,Setting,10,198,China (Ancient/Imperial)
+2588,Vehicular Themes,11,194,Truck
+2589,Vehicular Themes,11,193,Transport
+2594,Vehicular Themes,11,16,Bus
+2655,Gameplay,4,61,Hunting
+2695,Narrative Theme/Topic,8,93,Spy / Espionage
+2763,Educational Categories,5,74,History
+2795,Gameplay,4,28,Casino / Gambling
+2878,Sports Themes,3,31,Football (American)
+3080,Sports Themes,3,89,Pool / Snooker
+3265,Sports Themes,3,18,Fishing
+3296,Educational Categories,5,45,Typing
+3347,Educational Categories,5,86,Science
+3348,Educational Categories,5,43,Math / Logic
+3547,Setting,10,212,Steampunk
+3558,Gameplay,4,97,Music / Rhythm
+3615,Sports Themes,3,36,Boxing
+3617,Gameplay,4,144,Party Game
+3709,Gameplay,4,219,Quick Time Events (QTEs)
+3756,Gameplay,4,160,Massively Multiplayer
+3758,Pacing,9,94,Persistent
+3904,Sports Themes,3,75,Rugby
+4122,Gameplay,4,152,Tactical RPG
+4288,Interface/Control,7,172,Menu Structures
+4404,Basic Genres,1,187,Special Edition
+4406,Special Edition,15,186,Physical Extras
+4411,Setting,10,209,Pre-Columbian Americas
+4426,Setting,10,220,Japan (Ancient/Classical/Medieval)
+4486,Gameplay,4,147,Japanese-style RPG (JRPG)
+5188,Setting,10,190,Prehistoric
+5723,Narrative Theme/Topic,8,123,Thriller
+5946,Gameplay,4,157,Trading / Collectible Card
+6045,Narrative Theme/Topic,8,163,Survival
+6058,Educational Categories,5,92,Health / Nutrition
+6143,Educational Categories,5,71,Geography
+6641,Perspective,2,130,Text-based / Spreadsheet
+6832,Sports Themes,3,125,Dodgeball
+6870,Educational Categories,5,59,Music
+7826,Gameplay,4,164,Japanese-style Adventure
+8387,Gameplay,4,150,Sandbox / Open World
+8837,Educational Categories,5,79,Graphics / Art
+10168,Setting,10,214,World War I
+10633,Gameplay,4,149,Roguelike
+12298,Gameplay,4,111,Visual Novel
+12345,Educational Categories,5,84,Religion
+13142,Sports Themes,3,91,Horse / Derby
+13904,Sports Themes,3,110,Wakeboarding
+16382,Gameplay,4,138,Dating Simulation
+17297,Interface/Control,7,171,Text Parser
+17460,Gameplay,4,23,Interactive Fiction / Text Adventure
+17712,Setting,10,199,Cold War
+18144,DLC/Add-on,14,181,Customization / Outfit / Skin
+18146,DLC/Add-on,14,178,Item
+18147,DLC/Add-on,14,175,Enemy
+18701,Interface/Control,7,170,Voice Control
+18777,Gameplay,4,116,Hidden object
+21314,Sports Themes,3,103,Ping Pong / Table Tennis
+22039,Special Edition,15,184,Digital Extras
+22070,Interface/Control,7,169,Motion Control
+22709,Special Edition,15,185,Extra Content/Game
+23090,Sports Themes,3,105,Paintball
+23332,DLC/Add-on,14,179,Map / Level
+23912,Educational Categories,5,85,Foreign Language
+24419,DLC/Add-on,14,177,Game Mode
+31067,Perspective,2,127,Audio game
+33495,Educational Categories,5,98,Sociology
+38987,Vehicular Themes,11,222,Agricultural / Industrial
+40102,DLC/Add-on,14,182,Player Unit
+42963,Gameplay,4,156,Tower Defense
+47162,Setting,10,204,Industrial Age
+51822,DLC/Add-on,14,176,Extras
+58663,Art Style,13,221,Augmented reality
+60206,DLC/Add-on,14,174,Currency
+67402,Sports Themes,3,135,Athletics
+76710,Vehicular Themes,11,224,Self-propelled Artillery
+81704,Gameplay,4,195,Interactive Book
+83562,Sports Themes,3,119,Darts / Target Shooting
+93046,Sports Themes,3,136,Racquetball / Squash
