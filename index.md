@@ -1,6 +1,6 @@
 # Unboxing Japanese Videogames
 This website supplements the publication [Unboxing Japanese Videogames (Martin Roth, MIT Press 2025)](https://mitpress.mit.edu/9780262552226/unboxing-japanese-videogames/), with high-resolution figures, data and tables, as well as interactive visualizations. 
-To access the files, please visit the GitHub repository or use the links provided on this page.
+To access the files, please visit the [GitHub repository](https://github.com/m4chi/UnboxingJapaneseVideogames) or use the links provided on this page.
 
 This research was funded by the German Research Council (DFG) as part of the project [Databased Infrastructure for Global Games Culture Research](https://diggr.link/).
 
