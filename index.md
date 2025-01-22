@@ -12,7 +12,7 @@ This book is the first English-language study to provide an overview of the subj
 
 ![01.01	color	.png](chapter1/Roth_Fig_01.01_GameReleaseHeatmap_manuallyeditedJune2024.svg)	Heatmap of releases per platform, per year, based on the Media Arts Database. Created by Florian Rämisch for the diggr project.		A heatmap of releases per platform, per year, based on the Media Arts Database, showing the large extent to which game releases for platforms of different generations overlap temporally.
 
-01.02	color	.png	Tangible spatialization processes and their various influencing factors		A mindmap showing the relevant actors and factors that influence videogame spatialization in production and distribution, including directly involved actors and factors such as game companies, platform holders, and markets, as well as indirectly involved actors and factors such as state and regional governments or technological developments.
+![01.02	color	.png](chapter1/Roth_Fig_01.02_videogametangibles_mindmap_largefont_June2024.png)	Tangible spatialization processes and their various influencing factors		A mindmap showing the relevant actors and factors that influence videogame spatialization in production and distribution, including directly involved actors and factors such as game companies, platform holders, and markets, as well as indirectly involved actors and factors such as state and regional governments or technological developments.
 
 ## 2 CONTENTS
 
@@ -121,7 +121,7 @@ Play with the interactive visualizations here:
 Play with the interactive visualizations here:
 [early phase](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/ae734ecbab497c5643e4ee844036180c/raw/eae9f1600ec3a64a249f7de87f2164d85205d808/network-7ed579f4-e63.gexf)
 [mid phase](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/9d20a8cb2722b76ae2fd370372b086b2/raw/eae9f1600ec3a64a249f7de87f2164d85205d808/network-13e44318-749.gexf)
-[late phase](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://github.com/m4chi/UnboxingJapaneseVideogames/blob/main/chapter5/05.08_3_FromSoftwareCollaborationNetworkLatePhase.gexf)) this network could not be exported via Export to the Web due to its size.
+[late phase LINK TO BE ADDED](). This network could not be exported via Export to the Web due to its size.
 
 
 ### Meta
