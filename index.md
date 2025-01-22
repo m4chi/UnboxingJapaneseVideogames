@@ -121,7 +121,7 @@ Play with the interactive visualizations here:
 Play with the interactive visualizations here:
 [early phase](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/ae734ecbab497c5643e4ee844036180c/raw/eae9f1600ec3a64a249f7de87f2164d85205d808/network-7ed579f4-e63.gexf)
 [mid phase](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/9d20a8cb2722b76ae2fd370372b086b2/raw/eae9f1600ec3a64a249f7de87f2164d85205d808/network-13e44318-749.gexf)
-[late phase](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://github.com/m4chi/UnboxingJapaneseVideogames/blob/main/chapter5/05.08_3_FromSoftwareCollaborationNetworkLatePhase.gexf). This network could not be exported via Export to the Web due to its size.
+[late phase LINK TO BE ADDED](). This network could not be exported via Export to the Web due to its size.
 
 
 ### Meta
