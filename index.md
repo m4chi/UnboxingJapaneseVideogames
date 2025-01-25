@@ -8,11 +8,15 @@ This research was funded by the German Research Council (DFG) as part of the pro
 * TOC
 {:toc}
 
-## Book summary:
+---
+
+**Book summary**
 Unboxing Japanese Videogames uncovers the complex and plural spatialities of commercial videogames published in Japan between 1985 and 2015. Rejecting the “boxing” inherent in the phrase “Japanese videogames,” Martin Roth explores a series of spatialities that unfold in videogame production and distribution. The book develops a notion of spatialization that is applied in the analysis of contents or genre distributions in Japan, the US, the UK, Germany, and France, the distribution of videogame works across different important markets, the geography of actors involved in videogame production and their gradual spatialization over time, and the functional spatialization of game production across a diverse range of platforms.
 This book is the first English-language study to provide an overview of the subject and also the first to explore the spatial history of FromSoftware games. It stands out because it does so quantitatively, offering a macro-perspective on the field of commercial videogames instead of relying on sales statistics or case studies. In addition to a wide range of related scholarship in English, the book engages actively with scholarship and other relevant resources in Japanese. Over thirty visualizations make the findings of the book tangible and invite the reader to explore the spatial complexity of commercial videogames further.
 
-## 1 CAPTURING SPATIALIZATION
+---
+
+## 1. CAPTURING SPATIALIZATION
 
 #### Figure 1.01
 
@@ -30,7 +34,9 @@ A heatmap of releases per platform, per year, based on the Media Arts Database, 
 
 A mindmap showing the relevant actors and factors that influence videogame spatialization in production and distribution, including directly involved actors and factors such as game companies, platform holders, and markets, as well as indirectly involved actors and factors such as state and regional governments or technological developments.  
 
-## 2 CONTENTS
+---
+
+## 2. CONTENTS
 
 ### Figure 2.01
 
@@ -134,7 +140,9 @@ Lines indicating the percentage of visual novel games of all games per year betw
 ![02.13	color	.png](chapter2/Roth_Fig_02.13_genredist_timeline_JPUSUKFRDE_countrycomp_excl2019_new3_Action&Role-Playing(RPG)_norm_multi.svg)
 Lines indicating the percentage of action role-playing games of all games per year between 1986 and 2018, in Japan, Germany, the United States, France, the United Kingdom, and Worldwide, showing a higher share in Japan across the entire period, and a spike in all countries in the early 2000s.  
 
-## 3 MARKETS
+---
+
+## 3. MARKETS
 
 ### Figure 3.01
 
@@ -187,7 +195,9 @@ Play with the [interactive timeline](chapter3/Roth_Fig_03.05_FromSoftware_releas
 ![03.06	color	.png](chapter3/Roth_Fig_03.06_fromsoftdistribution_alltitles_regionaldistribution_April2023_manscale.svg)
 Stacked bars indicating the number of releases in different release regions for each game developed or published by FromSoftware.
 
-## 4 SITES
+---
+
+## 4. SITES
 
 ### Figure 4.01
 
@@ -232,7 +242,9 @@ Play with the interactive visualizations here:
 [mid phase](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/e1d17d9eac3eb8f332200ed0b5d5a46e/raw/2236aa8d4f8f50d0c8acfc4030171c84c180aaf5/network-b05ac141-d5a.gexf)
 [late phase](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/1326bc430bdfef428ba16879f0b6e051/raw/2236aa8d4f8f50d0c8acfc4030171c84c180aaf5/network-b881810a-4b0.gexf)
 
-## 5 ROLES
+---
+
+## 5. ROLES
 
 ### Figure 5.01
 
