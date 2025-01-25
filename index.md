@@ -8,11 +8,22 @@ This research was funded by the German Research Council (DFG) as part of the pro
 Unboxing Japanese Videogames uncovers the complex and plural spatialities of commercial videogames published in Japan between 1985 and 2015. Rejecting the “boxing” inherent in the phrase “Japanese videogames,” Martin Roth explores a series of spatialities that unfold in videogame production and distribution. The book develops a notion of spatialization that is applied in the analysis of contents or genre distributions in Japan, the US, the UK, Germany, and France, the distribution of videogame works across different important markets, the geography of actors involved in videogame production and their gradual spatialization over time, and the functional spatialization of game production across a diverse range of platforms.
 This book is the first English-language study to provide an overview of the subject and also the first to explore the spatial history of FromSoftware games. It stands out because it does so quantitatively, offering a macro-perspective on the field of commercial videogames instead of relying on sales statistics or case studies. In addition to a wide range of related scholarship in English, the book engages actively with scholarship and other relevant resources in Japanese. Over thirty visualizations make the findings of the book tangible and invite the reader to explore the spatial complexity of commercial videogames further.
 
+Jump directly to:
+{:toc}
+
+
 ## 1 CAPTURING SPATIALIZATION
 
-![01.01	color	.png](chapter1/Roth_Fig_01.01_GameReleaseHeatmap_manuallyeditedJune2024.svg)	Heatmap of releases per platform, per year, based on the Media Arts Database. Created by Florian Rämisch for the diggr project.		A heatmap of releases per platform, per year, based on the Media Arts Database, showing the large extent to which game releases for platforms of different generations overlap temporally.
+### Figure 1.01. Heatmap of releases per platform, per year, based on the Media Arts Database
+![01.01	color	.png](chapter1/Roth_Fig_01.01_GameReleaseHeatmap_manuallyeditedJune2024.svg)	
 
-![01.02	color	.png](chapter1/Roth_Fig_01.02_videogametangibles_mindmap_largefont_June2024.png)	Tangible spatialization processes and their various influencing factors		A mindmap showing the relevant actors and factors that influence videogame spatialization in production and distribution, including directly involved actors and factors such as game companies, platform holders, and markets, as well as indirectly involved actors and factors such as state and regional governments or technological developments.
+A heatmap of releases per platform, per year, based on the Media Arts Database, showing the large extent to which game releases for platforms of different generations overlap temporally. Created by Florian Rämisch for the diggr project.
+
+### Figure 1.02. Tangible spatialization processes and their various influencing factors
+
+![01.02	color	.png](chapter1/Roth_Fig_01.02_videogametangibles_mindmap_largefont_June2024.png)	
+
+A mindmap showing the relevant actors and factors that influence videogame spatialization in production and distribution, including directly involved actors and factors such as game companies, platform holders, and markets, as well as indirectly involved actors and factors such as state and regional governments or technological developments.
 
 ## 2 CONTENTS
 
