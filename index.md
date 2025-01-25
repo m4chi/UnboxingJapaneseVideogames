@@ -9,7 +9,7 @@ Unboxing Japanese Videogames uncovers the complex and plural spatialities of com
 This book is the first English-language study to provide an overview of the subject and also the first to explore the spatial history of FromSoftware games. It stands out because it does so quantitatively, offering a macro-perspective on the field of commercial videogames instead of relying on sales statistics or case studies. In addition to a wide range of related scholarship in English, the book engages actively with scholarship and other relevant resources in Japanese. Over thirty visualizations make the findings of the book tangible and invite the reader to explore the spatial complexity of commercial videogames further.
 
 Jump directly to:
-<newline>
+* TOC
 {:toc}
 
 
