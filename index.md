@@ -1,6 +1,6 @@
 # Unboxing Japanese Videogames
 This website supplements the publication [Unboxing Japanese Videogames (Martin Roth, MIT Press 2025)](https://mitpress.mit.edu/9780262552226/unboxing-japanese-videogames/), with high-resolution figures, data and tables, as well as interactive visualizations. 
-To access the files, please visit the [GitHub repository](https://github.com/m4chi/UnboxingJapaneseVideogames) or use the links provided on this page.
+To access the files directly, please visit the [GitHub repository](https://github.com/m4chi/UnboxingJapaneseVideogames). Some interactive visualizations may not be displayed properly on mobile devices.
 
 This research was funded by the German Research Council (DFG) as part of the project [Databased Infrastructure for Global Games Culture Research](https://diggr.link/).
 
@@ -10,7 +10,7 @@ This research was funded by the German Research Council (DFG) as part of the pro
 
 ---
 
-**Book summary**
+### Book summary
 
 Unboxing Japanese Videogames uncovers the complex and plural spatialities of commercial videogames published in Japan between 1985 and 2015. Rejecting the “boxing” inherent in the phrase “Japanese videogames,” Martin Roth explores a series of spatialities that unfold in videogame production and distribution. The book develops a notion of spatialization that is applied in the analysis of contents or genre distributions in Japan, the US, the UK, Germany, and France, the distribution of videogame works across different important markets, the geography of actors involved in videogame production and their gradual spatialization over time, and the functional spatialization of game production across a diverse range of platforms.
 This book is the first English-language study to provide an overview of the subject and also the first to explore the spatial history of FromSoftware games. It stands out because it does so quantitatively, offering a macro-perspective on the field of commercial videogames instead of relying on sales statistics or case studies. In addition to a wide range of related scholarship in English, the book engages actively with scholarship and other relevant resources in Japanese. Over thirty visualizations make the findings of the book tangible and invite the reader to explore the spatial complexity of commercial videogames further.
