@@ -22,7 +22,9 @@ This book is the first English-language study to provide an overview of the subj
 #### Figure 1.01
 
 **This heatmap of releases per platform, per year, based on the Media Arts Database shows the large extent to which game releases for platforms of different generations overlap temporally. Created by Florian Rämisch for the diggr project.**
-[![01.01	color	.png](chapter1/Roth_Fig_01.01_GameReleaseHeatmap_manuallyeditedJune2024.svg)](chapter1/Roth_Fig_01.01_GameReleaseHeatmap_manuallyeditedJune2024.svg){:target="_blank"}
+[![01.01	color	.png](/chapter1/Roth_Fig_01.01_GameReleaseHeatmap_manuallyeditedJune2024.svg)](/chapter1/Roth_Fig_01.01_GameReleaseHeatmap_manuallyeditedJune2024.svg){:target="_blank"}
+
+<--! https://github.com/m4chi/UnboxingJapaneseVideogames/blob/main/chapter1/Roth_Fig_01.01_GameReleaseHeatmap_manuallyeditedJune2024.svg-->
 
 ---
 
