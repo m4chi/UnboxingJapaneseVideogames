@@ -1,7 +1,7 @@
 # Unboxing Japanese Videogames
 This repository contains data, statistics and visualizations used in the publication "Unboxing Japanese Videogames" (Roth, MIT Press, 2025).
 
-## For an annotated version of the figures, tables and networks, please visit the [GitHub Pages site of this project](https://m4chi.github.io/UnboxingJapaneseVideogames/).
+## For the annotated version of the figures, tables and networks, please visit the [GitHub Pages site of this project](https://m4chi.github.io/UnboxingJapaneseVideogames/).
 
 This research was funded by the German Research Council (DFG) as part of the project [Databased Infrastructure for Global Games Culture Research](https://diggr.link/).
 
