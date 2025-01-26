@@ -70,7 +70,7 @@ This book is the first English-language study to provide an overview of the subj
 
 ---
 
-### Figure 2.06
+#### Figure 2.06
 
 **Timeline for action games per country over time for all videogame platforms. Lines indicating the percentage of action games of all games per year between 1983 and 2018, in Japan, Germany, the United States, France, the United Kingdom, and Worldwide, showing a spike across all markets in the late 1980s and relatively stable share of 40-50 per cent thereafter, which only declines slowly in the mid-2010s.**
 [![02.06	color	.png](/chapter2/Roth_Fig_02.06_genredist_timeline_JPUSUKFRDE_countrycomp_excl2019_new3_Action_norm.svg)](/chapter2/Roth_Fig_02.06_genredist_timeline_JPUSUKFRDE_countrycomp_excl2019_new3_Action_norm.svg){:target="_blank"}
@@ -190,7 +190,7 @@ Play with the data in Figure 04.01 and 04.02 in this [interactive map](chapter4/
 
 ---
 
-### Figure 4.03
+#### Figure 4.03
 
 **Company-based collaboration networks (giant component, reduced to actors with multiple contributions with edges cropped for better visibility)**
 [![04.03	color	.png](/chapter4/Roth_Fig_04.03_Production_ConsoleNetworks_Country_norolesMarch2024.svg)](/chapter4/Roth_Fig_04.03_Production_ConsoleNetworks_Country_norolesMarch2024.svg){:target="_blank"}
