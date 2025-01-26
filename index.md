@@ -59,7 +59,7 @@ This book is the first English-language study to provide an overview of the subj
 #### Figure 2.04
 
 **Share of “football (European) / soccer” per country over time for all videogame platforms. Lines indicating the percentage of soccer games of all games per year between 1983 and 2018, in Japan, Germany, the United States, France, the United Kingdom, and Worldwide, showing several spikes in the 1990s and 2000s, and a general decline thereafter.**
-[![02.04	color	.png](/chapter2/Roth_Fig_02.04_genredist_timeline_JPUSUKFRDE_countrycomp_excl2019_new3_Football(European)Soccer_norm.svg)](/chapter2/Roth_Fig_02.04_genredist_timeline_JPUSUKFRDE_countrycomp_excl2019_new3_Football(European)Soccer_norm.svg){:target="_blank"}  
+[![02.04	color	.png](/chapter2/Roth_Fig_02.04_genredist_timeline_JPUSUKFRDE_countrycomp_excl2019_new3_Football_European_Soccer_norm.svg)](/chapter2/Roth_Fig_02.04_genredist_timeline_JPUSUKFRDE_countrycomp_excl2019_new3_Football_European_Soccer_norm.svg){:target="_blank"}  
 
 ---
 
@@ -122,7 +122,7 @@ This book is the first English-language study to provide an overview of the subj
 #### Figure 2.13
 
 **Timeline for action role-playing games per country over time for all videogame platforms. Lines indicating the percentage of action role-playing games of all games per year between 1986 and 2018, in Japan, Germany, the United States, France, the United Kingdom, and Worldwide, showing a higher share in Japan across the entire period, and a spike in all countries in the early 2000s.**
-[![02.13	color	.png](/chapter2/Roth_Fig_02.13_genredist_timeline_JPUSUKFRDE_countrycomp_excl2019_new3_Action&Role-Playing(RPG)_norm_multi.svg)](/chapter2/Roth_Fig_02.13_genredist_timeline_JPUSUKFRDE_countrycomp_excl2019_new3_Action&Role-Playing(RPG)_norm_multi.svg){:target="_blank"}
+[![02.13	color	.png](/chapter2/Roth_Fig_02.13_genredist_timeline_JPUSUKFRDE_countrycomp_excl2019_new3_Action&Role-Playing_RPG__norm_multi.svg)](/chapter2/Roth_Fig_02.13_genredist_timeline_JPUSUKFRDE_countrycomp_excl2019_new3_Action&Role-Playing_RPG__norm_multi.svg){:target="_blank"}
 
 ---
 
