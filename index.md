@@ -22,14 +22,14 @@ This book is the first English-language study to provide an overview of the subj
 #### Figure 1.01
 
 **This heatmap of releases per platform, per year, based on the Media Arts Database shows the large extent to which game releases for platforms of different generations overlap temporally. Created by Florian Rämisch for the diggr project.**
-[![01.01	color	.png](/chapter1/Roth_Fig_01.01_GameReleaseHeatmap_manuallyeditedJune2024.svg)](/chapter1/Roth_Fig_01.01_GameReleaseHeatmap_manuallyeditedJune2024.svg){:target="_blank"}
+[![01.01	color	.png](chapter1/Roth_Fig_01.01_GameReleaseHeatmap_manuallyeditedJune2024.svg)](chapter1/Roth_Fig_01.01_GameReleaseHeatmap_manuallyeditedJune2024.svg){:target="_blank"}
 
 ---
 
 #### Figure 1.02
 
 **A mindmap of tangible spatialization processes charting the relevant actors and factors that influence videogame spatialization in production and distribution, including directly involved actors and factors such as game companies, platform holders, and markets, as well as indirectly involved actors and factors such as state and regional governments or technological developments.**
-[![01.02	color	.png](/chapter1/Roth_Fig_01.02_videogametangibles_mindmap_largefont_June2024.png)](/chapter1/Roth_Fig_01.02_videogametangibles_mindmap_largefont_June2024.png){:target="_blank"}
+[![01.02	color	.png](chapter1/Roth_Fig_01.02_videogametangibles_mindmap_largefont_June2024.png)](chapter1/Roth_Fig_01.02_videogametangibles_mindmap_largefont_June2024.png){:target="_blank"}
 
 ---
 
