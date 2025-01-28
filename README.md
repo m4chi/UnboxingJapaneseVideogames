@@ -8,8 +8,10 @@ This research was funded by the German Research Council (DFG) as part of the pro
 # Meta
 **Zenodo Repository Snapshots**
 [![DOI](https://zenodo.org/badge/854897724.svg)](https://doi.org/10.5281/zenodo.14752715)
+
 **License**
 [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0)
 ![license](https://i.creativecommons.org/l/by/4.0/80x15.png)
+
 **Copyright**
 2025 Martin Roth [roth1003@fc.ritsumei.ac.jp](roth1003@fc.ritsumei.ac.jp)
