@@ -298,10 +298,13 @@ Play with the interactive visualizations here:
 [late phase](chapter5/fig508network_late/network/index.html){:target="_blank"}  
 
 ## Meta
-<!--- ADD! **Zenodo Repository Snapshots
-[![DOI](https://zenodo.org/badge/326400336.svg)](https://zenodo.org/badge/latestdoi/326400336) --->
+
+**Zenodo Repository Snapshots**
+[![DOI](https://zenodo.org/badge/854897724.svg)](https://doi.org/10.5281/zenodo.14752715)
+
 **License**
 [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0){:target="_blank"}
 ![license](https://i.creativecommons.org/l/by/4.0/80x15.png)
+
 **Copyright**
 2025 Martin Roth [roth1003@fc.ritsumei.ac.jp](roth1003@fc.ritsumei.ac.jp)
