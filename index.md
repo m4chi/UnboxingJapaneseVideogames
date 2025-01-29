@@ -197,9 +197,9 @@ Play with the data in Figure 04.01 and 04.02 in this [interactive map](chapter4/
 Production network visualizations for the Nintendo Entertainment System, and Sony Playstations 1, 3 and 4, with nodes colored according to the region in which the company headquarter is located in and node sizes based on number of games contributed to. Visualization created with Gephi.
 
 Play with the interactive visualisations here:
-[NES](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/3c851b676023545ff026e2e299193207/raw/434ae495f134f22969d46cc06e165bdbf8b3890c/network-90e2877b-08e.gexf){:target="_blank"}
-[PS](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/2834a955d6f6e3fa583e51e016c7d142/raw/d8a5faf164824d1f4a6bf34e840fc3c804fd7b34/network-0545b84f-a2f.gexf){:target="_blank"}
-[PS3](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/95ac66032231fc349f5d08199e14965f/raw/399350e60eb1d22e18a31af3d21c05f0b793fa34/network-a2cb7287-be6.gexf){:target="_blank"}
+[NES](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/3c851b676023545ff026e2e299193207/raw/434ae495f134f22969d46cc06e165bdbf8b3890c/network-90e2877b-08e.gexf){:target="_blank"} | 
+[PS](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/2834a955d6f6e3fa583e51e016c7d142/raw/d8a5faf164824d1f4a6bf34e840fc3c804fd7b34/network-0545b84f-a2f.gexf){:target="_blank"} | 
+[PS3](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/95ac66032231fc349f5d08199e14965f/raw/399350e60eb1d22e18a31af3d21c05f0b793fa34/network-a2cb7287-be6.gexf){:target="_blank"} | 
 [PS4](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/8f0948962f7b61d153d4fe0fb12fe901/raw/1c62f8724ba82d73e3694873b3df98f71d202dd8/network-146e6a03-54b.gexf){:target="_blank"}
 
 ---
@@ -210,8 +210,8 @@ Play with the interactive visualisations here:
 [![04.04	color	.png](chapter4/Roth_Fig_04.04_Production_FromSoftCredits_Country_Spatialization_norolesMarch2024.svg)](chapter4/Roth_Fig_04.04_Production_FromSoftCredits_Country_Spatialization_norolesMarch2024.svg){:target="_blank"}	
 
 Play with the interactive visualizations here:
-[early phase](chapter4/fig404network_early/network/index.html){:target="_blank"}
-[mid phase](chapter4/fig404network_mid/network/index.html){:target="_blank"}
+[early phase](chapter4/fig404network_early/network/index.html){:target="_blank"} | 
+[mid phase](chapter4/fig404network_mid/network/index.html){:target="_blank"} | 
 [late phase](chapter4/fig404network_late/network/index.html){:target="_blank"}
 
 ---
@@ -231,8 +231,8 @@ Play with the interactive visualizations here:
 [![05.02	color	.png](chapter5/Roth_Fig_05.02_Production_RoleDistr_NES_new.svg)](chapter5/Roth_Fig_05.02_Production_RoleDistr_NES_new.svg){:target="_blank"}
 
 Play with the interactive visualizations here:
-[NES relevance](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/28488bf1b5bd644e096064ce7c08a173/raw/bb21b90616d88983b9a414add14789108b38e28b/network-5a5579b0-69c.gexf){:target="_blank"}
-[NES influence](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/bde4a90597857ff6e3ca0c867bb06f77/raw/baa58bf1c5201a051d44ef2b628be37a51cc0f8d/network-acb98b5d-23f.gexf){:target="_blank"}
+[NES relevance](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/28488bf1b5bd644e096064ce7c08a173/raw/bb21b90616d88983b9a414add14789108b38e28b/network-5a5579b0-69c.gexf){:target="_blank"} | 
+[NES influence](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/bde4a90597857ff6e3ca0c867bb06f77/raw/baa58bf1c5201a051d44ef2b628be37a51cc0f8d/network-acb98b5d-23f.gexf){:target="_blank"} | 
 [NES bridging](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/fd22438785f341cd73fe5f5927093f1e/raw/9cf827465e33c5210b1bb5281bee9db7f886cbb9/network-94352f91-812.gexf){:target="_blank"}
 
 ---
@@ -243,8 +243,8 @@ Play with the interactive visualizations here:
 [![05.03	color	.png](chapter5/Roth_Fig_05.03_Production_RoleDistr_PS_new.svg)](chapter5/Roth_Fig_05.03_Production_RoleDistr_PS_new.svg){:target="_blank"}
 
 Play with the interactive visualizations here:
-[PS relevance](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/c3e20a521ffe244e2f253c0820fb1ff6/raw/acffeb765baf78f3e31c378f0adacd6f52b9110d/network-5b9c71a8-15b.gexf){:target="_blank"}
-[PS influence](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/168b4094cd201467b7f63acb7b9ca4d0/raw/c18926f9655b30b62f7947fac60d5ab1ab8eb49f/network-d193dafd-3af.gexf){:target="_blank"}
+[PS relevance](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/c3e20a521ffe244e2f253c0820fb1ff6/raw/acffeb765baf78f3e31c378f0adacd6f52b9110d/network-5b9c71a8-15b.gexf){:target="_blank"} | 
+[PS influence](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/168b4094cd201467b7f63acb7b9ca4d0/raw/c18926f9655b30b62f7947fac60d5ab1ab8eb49f/network-d193dafd-3af.gexf){:target="_blank"} | 
 [PS bridging](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/e31c1658df436c36b3000357b0d3dc71/raw/966351ee7af861618509e4fb8515ed5c20ecfb3f/network-63749a47-471.gexf){:target="_blank"}
 
 ---
@@ -255,8 +255,8 @@ Play with the interactive visualizations here:
 [![05.04	color	.png](chapter5/Roth_Fig_05.04_Production_RoleDistr_PS3_new.svg)](chapter5/Roth_Fig_05.04_Production_RoleDistr_PS3_new.svg){:target="_blank"}
 
 Play with the interactive visualizations here:
-[PS3 relevance](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/320be1e4db015b3608e559c3c73974df/raw/e97045d08909b1cb269e9416aa745951a4f9eb7f/network-32e7283c-b7b.gexf){:target="_blank"}
-[PS3 influence](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/b714ba0ec4929f3c1c011736b489ddf0/raw/df7029b2763e6e5dd9b1a98b57b5eb7956c24c3a/network-73c32651-456.gexf){:target="_blank"}
+[PS3 relevance](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/320be1e4db015b3608e559c3c73974df/raw/e97045d08909b1cb269e9416aa745951a4f9eb7f/network-32e7283c-b7b.gexf){:target="_blank"} | 
+[PS3 influence](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/b714ba0ec4929f3c1c011736b489ddf0/raw/df7029b2763e6e5dd9b1a98b57b5eb7956c24c3a/network-73c32651-456.gexf){:target="_blank"} | 
 [PS3 bridging](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/15e78e93a6479006318525755386c15b/raw/f61b17860e5d5c2db31da68352e4f980fb396273/network-df7330e7-61c.gexf){:target="_blank"}
 
 ---
@@ -267,8 +267,8 @@ Play with the interactive visualizations here:
 [![05.05	color	.png](chapter5/Roth_Fig_05.05_Production_RoleDistr_PS4_new.svg)](chapter5/Roth_Fig_05.05_Production_RoleDistr_PS4_new.svg){:target="_blank"}
 
 Play with the interactive visualizations here:
-[PS4 relevance](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/833d79708e38b028e456f8347a741479/raw/ce76e232f094d4e0a92809c23dbed0df68b4dce6/network-55baa099-22b.gexf){:target="_blank"}
-[PS4 influence](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/50714b6afe1f995c2d060a70842feec1/raw/97a915e633e880445f98c9bfe0ece6308c6200f8/network-d5431963-fcb.gexf){:target="_blank"}
+[PS4 relevance](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/833d79708e38b028e456f8347a741479/raw/ce76e232f094d4e0a92809c23dbed0df68b4dce6/network-55baa099-22b.gexf){:target="_blank"} | 
+[PS4 influence](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/50714b6afe1f995c2d060a70842feec1/raw/97a915e633e880445f98c9bfe0ece6308c6200f8/network-d5431963-fcb.gexf){:target="_blank"} | 
 [PS4 bridging](https://ouestware.gitlab.io/retina/beta/#/graph/?url=https://gist.githubusercontent.com/m4chi/e5273434412719df14927130d998ba39/raw/0c1d672bc3ee91c4e5aaf155410632e0a204abcf/network-588abfde-88e.gexf){:target="_blank"}
 
 ---
@@ -293,8 +293,8 @@ Play with the interactive visualizations here:
 [![05.08	color	.png](chapter5/Roth_Fig_05.08_Production_FromSoftCredits_Role_Spatialization_March2024.svg)](chapter5/Roth_Fig_05.08_Production_FromSoftCredits_Role_Spatialization_March2024.svg){:target="_blank"}
 
 Play with the interactive visualizations here:
-[early phase](chapter5/fig508network_early/network/index.html){:target="_blank"}
-[mid phase](chapter5/fig508network_mid/network/index.html){:target="_blank"}
+[early phase](chapter5/fig508network_early/network/index.html){:target="_blank"} | 
+[mid phase](chapter5/fig508network_mid/network/index.html){:target="_blank"} | 
 [late phase](chapter5/fig508network_late/network/index.html){:target="_blank"}  
 
 ## Meta
